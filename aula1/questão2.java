@@ -1,11 +1,11 @@
 package aula1;
 
-public class quest„o2 {
+public class quest√£o2 {
 
 	public static void main(String[] args) {
-		String nome= "Jose Wilson Bezerra Neto";
-		String endereco= "Siqueira";
-		String cep= "40028-922";
+		String nome= "Zhue Wilson Menino Neto";
+		String endereco= "Bem-Ali";
+		String cep= "87613-320";
 		
 		System.out.printf("Nome: %s \nend: %s \ncep: %s"+"",nome,endereco,cep);
 	}
